@@ -6,3 +6,6 @@ unoptimized convolution filter test in Unity
 
 # References
 http://setosa.io/ev/image-kernels/
+
+# Credits
+flower photo https://pixabay.com/en/hepatica-anemone-flower-bloom-670179/
